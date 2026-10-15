@@ -1,0 +1,11 @@
+{
+  "org": "matplotlib",
+  "repo": "cycler",
+  "versions": [
+    {
+      "commit": "d1737eb0a42bd451e8770cef245ebe60ebb36bfc",
+      "tag": "",
+      "parsed_at": "2026-10-15T20:52:23.137108+00:00"
+    }
+  ]
+}
