@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/matplotlib/cycler/commit/d1737eb0a42bd451e8770cef245ebe60ebb36bfc",
       "git:hexsha": "d1737eb0a42bd451e8770cef245ebe60ebb36bfc",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/matplotlib/cycler/commit/e18a779489a03df408eb4da98d8e4826ead664b0",
